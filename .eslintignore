@@ -1,0 +1,14 @@
+# /config
+.history
+public
+dist
+.vscode
+node_modules
+src/utils/utils
+config/index
+deploy
+@/utils/utils
+__MOCK__
+MOCK
+src/assets/iconfont
+src/components/Commons/Loading.vue

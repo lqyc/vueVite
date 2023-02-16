@@ -1,0 +1,19 @@
+# /config
+.history
+public
+dist
+.vscode
+node_modules
+src/utils/utils
+config/index
+deploy
+@/utils/utils
+__MOCK__
+MOCK
+src/assets/
+src/main
+src/views/marketing/wealth-configs/app/components/ModuleFundEdit.vue
+src/views/marketing/wealth-configs/app/components/WealthFundEdit.vue
+src/views/marketing/wealth-configs/app/components/WealthHealthNo.vue
+src/views/marketing/wealth-configs/app/components/WealthSuggestEdit.vue
+src/views/marketing/wealth-configs/app/components/WealthSuggestEditNo.vue
